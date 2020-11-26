@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drive to MSU</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="instruction_text">The application contains a starting coordinate and
+        an ending coordinate for MSU. The coordinates are drawn as markers on the map. The map is
+        loaded into a view and two markers for the coordinates are placed in the map. When the
+        user clicks the "Drive to MSU" button, the route from the start marker to the MSU marker
+        is highlighted on the map.
+    </string>
+</resources>
